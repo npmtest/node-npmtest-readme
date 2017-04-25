@@ -1,6 +1,6 @@
 # npmtest-readme
 
-#### test coverage for  [readme (v0.6.0)](https://github.com/dominictarr/readme#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-readme.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-readme) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-readme.svg)](https://travis-ci.org/npmtest/node-npmtest-readme)
+#### basic test coverage for  [readme (v0.6.0)](https://github.com/dominictarr/readme#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-readme.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-readme) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-readme.svg)](https://travis-ci.org/npmtest/node-npmtest-readme)
 
 #### display a module's readme in the terminal
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-readme/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-readme/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-readme/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-readme/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-readme/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-readme/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-readme/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-readme/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-readme/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-readme/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-readme/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-readme/build/coverage.html/index.html)
 
