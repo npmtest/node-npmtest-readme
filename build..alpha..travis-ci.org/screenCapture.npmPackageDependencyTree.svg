@@ -51,8 +51,8 @@
 <tspan x="10" y="778">  ├─┬ mkdirp@0.5.1 </tspan>
 <tspan x="10" y="794">  │ └── minimist@0.0.8 </tspan>
 <tspan x="10" y="810">  ├─┬ node-api-docs@0.3.1 </tspan>
-<tspan x="10" y="826">  │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="842">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="826">  │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="842">  │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="858">  │ ├─┬ got@5.7.1 </tspan>
 <tspan x="10" y="874">  │ │ ├─┬ create-error-class@3.0.2 </tspan>
 <tspan x="10" y="890">  │ │ │ └── capture-stack-trace@1.0.0 </tspan>
